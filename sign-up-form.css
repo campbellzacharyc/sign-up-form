@@ -28,9 +28,17 @@
     top: 150px;
     font-size: 24px;
     font-family: rockwell;
-    font-style: bold
+    font-style: bold;
 }
 
 .signupform {
-    
+}
+
+.labels2 {
+    position: relative;
+    left: 50px;
+}
+
+fieldset {
+    border: white;
 }
