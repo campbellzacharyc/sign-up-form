@@ -1,0 +1,36 @@
+.backgroundimage {
+}
+
+.image {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.odinproject {
+    background: black;
+    opacity: 0.6;
+    position: absolute;
+    color: white;
+    font-family: norse;
+    font-style: bold;
+    text-align: center;
+    font-size: 36px;
+    left:0px;
+    right: 753px;
+    top: 100px;
+    bottom: 500px;
+}
+
+.signup {
+    position: absolute;
+    left: 700px;
+    top: 150px;
+    font-size: 24px;
+    font-family: rockwell;
+    font-style: bold
+}
+
+.signupform {
+    
+}
