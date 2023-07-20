@@ -1,4 +1,7 @@
 .backgroundimage {
+    display: flex;
+    justify-content: center;
+    width:100vw;
 }
 
 .image {
@@ -9,7 +12,7 @@
 
 .odinproject {
     background: black;
-    opacity: 0.6;
+    opacity: 0.5;
     position: absolute;
     color: white;
     font-family: norse;
@@ -18,8 +21,19 @@
     font-size: 36px;
     left:0px;
     right: 753px;
-    top: 100px;
-    bottom: 500px;
+    top: 225px;
+    bottom: 350px;
+}
+
+.image2 {
+    position: relative;
+    height: 160px;
+}
+
+.odin {
+    position: relative;
+    left: 100px;
+    bottom: 135px;
 }
 
 .signup {
@@ -29,9 +43,6 @@
     font-size: 24px;
     font-family: rockwell;
     font-style: bold;
-}
-
-.signupform {
 }
 
 .labels2 {
@@ -55,4 +66,8 @@ button {
 
 a {
     color: #596D48;
+}
+
+password:error {
+    border: red;
 }
